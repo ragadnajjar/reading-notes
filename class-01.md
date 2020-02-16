@@ -1,9 +1,9 @@
 # html describes the structure of bages 
 ## so besiclly we use elements to descripe the structure of bages
 * like: 
-1. <body>
-2. <head>
-3. <title>
+1. `<body>`
+2. `<head>`
+3. `<title>`
 # there are different versions of HTML and each one of it was designed to be an improvement 
 1. html 5 
 2. html 4 
