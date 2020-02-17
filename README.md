@@ -3,9 +3,9 @@
 
 read # | topic / link
 -------|-------------
-read 1 | link 
+read 1 | [link](https://ragadnajjar.github.io/reading-notes/class-01) 
 -------|-------------
-read 2 | link
+read 2 | [link](https://ragadnajjar.github.io/reading-notes/class-02)
 -------|-------------
 read 3 | link
 -------|-------------
