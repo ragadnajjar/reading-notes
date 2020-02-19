@@ -7,9 +7,9 @@ read 1 | [link](https://ragadnajjar.github.io/reading-notes/class-01)
 -------|-------------
 read 2 | [link](https://ragadnajjar.github.io/reading-notes/class-02)
 -------|-------------
-read 3 | link
+read 3 | [link](https://ragadnajjar.github.io/reading-notes/read3)
 -------|-------------
-read 4 | link 
+read 4 | [link](https://ragadnajjar.github.io/reading-notes/READ4.README)
 -------|-------------
 read 5 | link 
 -------|-------------
