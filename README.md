@@ -13,7 +13,7 @@ read 4 | [link](https://ragadnajjar.github.io/reading-notes/READ4.README)
 -------|-------------
 read 5 | [link](https://ragadnajjar.github.io/reading-notes/read5) 
 -------|-------------
-read 6 | link
+read 6 | [link](https://ragadnajjar.github.io/reading-notes/class-06)
 -------|-------------
 read 7 | link
 -------|-------------
