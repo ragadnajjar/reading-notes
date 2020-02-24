@@ -17,7 +17,7 @@ read 6 | [link](https://ragadnajjar.github.io/reading-notes/class-06)
 -------|-------------
 read 7 | [link](https://ragadnajjar.github.io/reading-notes/class-07)
 -------|-------------
-read 8 |link
+read 8 |[link](https://ragadnajjar.github.io/reading-notes/class-08)
 -------|-------------
 read 9 | link
 -------|-------------
