@@ -19,7 +19,7 @@ read 7 | [link](https://ragadnajjar.github.io/reading-notes/class-07)
 -------|-------------
 read 8 |[link](https://ragadnajjar.github.io/reading-notes/class-08)
 -------|-------------
-read 9 | link
+read 9 | [link](https://ragadnajjar.github.io/reading-notes/class-09)
 -------|-------------
 read 10| link
 -------|-------------
