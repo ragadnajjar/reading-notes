@@ -1,5 +1,5 @@
 # code 201 reading notes
-## all the new things that I will learn I will put it here and all my notes will be on this repo 
+# All the new things I will learn I will put it here and all my notes will be on this repo 
 
 read # | topic / link
 -------|-------------
@@ -23,7 +23,7 @@ read 9 | [link](https://ragadnajjar.github.io/reading-notes/class-09)
 -------|-------------
 read 10| [link](https://ragadnajjar.github.io/reading-notes/class-10)
 -------|-------------
-read 11| link 
+read 11| [link](https://ragadnajjar.github.io/reading-notes/read-11) 
 -------|-------------
 read 12| link 
 -------|-------------
