@@ -31,6 +31,6 @@ read 13| [link](https://ragadnajjar.github.io/reading-notes/class-13)
 -------|-------------
 read 14| [link](https://ragadnajjar.github.io/reading-notes/class-14) 
 -------|-------------
-read 15| link 
+read 15| [link](https://ragadnajjar.github.io/reading-notes/class-15) 
 -------|-------------
 -------|-------------
